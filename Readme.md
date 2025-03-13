@@ -68,7 +68,7 @@ The **problems** folder contains coding challenges related to each lesson to rei
    ```
 2. Navigate into the project folder:
    ```sh
-   cd golang-learning
+   cd learning_go
    ```
 3. Run Go programs using:
    ```sh
