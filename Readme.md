@@ -64,7 +64,7 @@ The **problems** folder contains coding challenges related to each lesson to rei
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/golang-learning.git
+   git clone https://github.com/walonCode/learning_go.git
    ```
 2. Navigate into the project folder:
    ```sh
