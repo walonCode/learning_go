@@ -67,6 +67,7 @@ The repository follows a structured format where each topic is stored in its res
 ### 🔹 Lesson 10: Packages
 - What are packages
 - Learnt how to create a packages and  use them in a project
+- Learnt about testing packages using go testing library
 
 ## 📝 Problems Folder
 The **problems** folder contains coding challenges related to each lesson to reinforce learning through hands-on practice.
