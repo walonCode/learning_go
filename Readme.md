@@ -60,7 +60,7 @@ The repository follows a structured format where each topic is stored in its res
 - Implementing interfaces for abstraction
 
 ### 🔹 Lesson 09: Concurrency
-- Learnt about and how it works
+- Learnt about it and how it works
 - Implemented how two concurrent function can talk to each other
 
 ### 🔹 Lesson 10: Packages
