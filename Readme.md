@@ -18,6 +18,7 @@ The repository follows a structured format where each topic is stored in its res
 ├── 📁 lesson_08  # Structs & Interfaces
 ├── 📁 lesson_09  # Concurrency
 ├── 📁 lesson_10  # Packages
+├── 📁 lesson_11  # Inbuilt Packages
 ├── 📁 problems   # Practice Problems
 └── README.md
 ```
@@ -68,6 +69,11 @@ The repository follows a structured format where each topic is stored in its res
 - What are packages
 - Learnt how to create a packages and  use them in a project
 - Learnt about testing packages using go testing library
+
+### 🔹 Lesson 10: Inbuit Packages
+- Learnt about fmt,io,os, http
+- Learnt how server can be easily created in go
+
 
 ## 📝 Problems Folder
 The **problems** folder contains coding challenges related to each lesson to reinforce learning through hands-on practice.
