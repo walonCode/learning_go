@@ -16,6 +16,8 @@ The repository follows a structured format where each topic is stored in its res
 ├── 📁 lesson_06  # Functions, Panic & Recover
 ├── 📁 lesson_07  # Pointers
 ├── 📁 lesson_08  # Structs & Interfaces
+├── 📁 lesson_09  # Concurrency
+├── 📁 lesson_10  # Packages
 ├── 📁 problems   # Practice Problems
 └── README.md
 ```
@@ -56,6 +58,14 @@ The repository follows a structured format where each topic is stored in its res
 ### 🔹 Lesson 08: Structs & Interfaces
 - Defining structs for custom data types
 - Implementing interfaces for abstraction
+
+### 🔹 Lesson 09: Concurrency
+- Learnt about and how it works
+- Implemented how two concurrent function can talk to each other
+
+### 🔹 Lesson 10: Packages
+- What are packages
+- Learnt how to create a packages and  use them in a project
 
 ## 📝 Problems Folder
 The **problems** folder contains coding challenges related to each lesson to reinforce learning through hands-on practice.
