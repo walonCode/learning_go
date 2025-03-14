@@ -61,6 +61,7 @@ The repository follows a structured format where each topic is stored in its res
 
 ### 🔹 Lesson 09: Concurrency
 - Learnt about it and how it works
+- Learnt about channels in go
 - Implemented how two concurrent function can talk to each other
 
 ### 🔹 Lesson 10: Packages
