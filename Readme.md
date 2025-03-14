@@ -70,7 +70,7 @@ The repository follows a structured format where each topic is stored in its res
 - Learnt how to create a packages and  use them in a project
 - Learnt about testing packages using go testing library
 
-### 🔹 Lesson 10: Inbuit Packages
+### 🔹 Lesson 11: Inbuit Packages
 - Learnt about fmt,io,os, http
 - Learnt how server can be easily created in go
 
